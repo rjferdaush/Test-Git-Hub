@@ -52,5 +52,16 @@ It's My First Code<br>
 
 # Marge Branch
 1/ Marge on gitHub by using pull request<br>
-2/ get pull origin main {Pull Command use kori gitHub thake code editor e nia asha r jonno}<br>
+2/ git pull origin main {Pull Command use kori gitHub thake code editor e nia asha r jonno}<br>
+3/ git merge name {to merge}<br>
+
+
+
+# Undoing Chnage
+1/ get reset name {if i just add}
+2/ git reset {all file reset if i just add}
+3/ get HEAD~1 (last chnenge back if i commit and if i use HEAD~2 or 3 or etc then i can found last last change )
+4/ git reset hash {jodi onek ager commit ante chao taile git log dia sob ber korte hobe je khakon ki chnage korci then oi khane ektha boro code thakbe oitai holo hash oitha boshate hobe }
+5/ git reset --hash {editor thake o thik hoia jabe and ager tha sudu git thake thik hoise note gitHub and not editor} 
+5/ git log {Comment Check}
 
