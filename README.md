@@ -63,5 +63,5 @@ It's My First Code<br>
 3/ get HEAD~1 (last chnenge back if i commit and if i use HEAD~2 or 3 or etc then i can found last last change )
 4/ git reset hash {jodi onek ager commit ante chao taile git log dia sob ber korte hobe je khakon ki chnage korci then oi khane ektha boro code thakbe oitai holo hash oitha boshate hobe }
 5/ git reset --hash {editor thake o thik hoia jabe and ager tha sudu git thake thik hoise note gitHub and not editor} 
-5/ git log {Comment Check}
+5/ git log {Comment Check q press korle log out kora jay}
 
