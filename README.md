@@ -47,6 +47,10 @@ It's My First Code<br>
 2/ git checkout -b name {make new branch and switch}<br>
 3/ git checkout name {to go different branch}<br>
 4/ git branch -d name {to delete tha branch(safe)}<br>
-5/ git branch -m main {to remane branch name}
-6/ main branch and main_1 branch are same code but if you work in main_1 branch it is separately work
+5/ git branch -m main {to remane branch name}<br>
+6/ main branch and main_1 branch are same code but if you work in main_1 branch it is separately work <br>
+
+# Marge Branch
+1/ Marge on gitHub by using pull request<br>
+2/ get pull origin main {Pull Command use kori gitHub thake code editor e nia asha r jonno}<br>
 
